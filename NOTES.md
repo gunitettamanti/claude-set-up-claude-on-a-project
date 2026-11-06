@@ -21,5 +21,5 @@ At first I also had a rule blocking `.env.*`. I removed it because it matched `.
 
 ## Verification
 
-- `/memory` shows `CLAUDE.md` loaded: _TODO, confirm in a fresh session_
-- `/permissions` shows the allow, ask and deny rules: _TODO, confirm in a fresh session_
+- `/memory` shows `CLAUDE.md` loaded: confirmed in a fresh session; it's listed under project instructions.
+- `/permissions` shows the allow, ask and deny rules: confirmed; all the rules from `.claude/settings.json` appear.
